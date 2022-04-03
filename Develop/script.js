@@ -35,3 +35,9 @@ for (var i = 0; i < timeBlock.length; i++) {
     }
     counter ++;
 }
+
+$("#clearBtn").click(function (event) {
+    event.preventDefault;
+    $("textarea").val("");
+    localStorage.clear();
+  });
