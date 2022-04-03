@@ -3,4 +3,6 @@ This is a daily planner intended for employees with a busy schedule. The applica
 
 This project utilizes HTML, CSS and Javascript.
 
+Website: https://snowslurpie.github.io/work-day-scheduler/
+
 ![Portfolio Layout](./Develop/images/webpage.png)
